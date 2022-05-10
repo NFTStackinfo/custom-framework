@@ -1,0 +1,8 @@
+.idea
+
+.DS_Store
+
+.htaccess
+.fastcgi_params
+
+loc.config.php
